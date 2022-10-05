@@ -25,3 +25,4 @@
 - Paste the polyline string into the functions present at the bottom of the file and run it with either:
   - `node index.js`
   - `elixir main.exs`
+- Both files will output the path for signing (they are identical) and the full URL
